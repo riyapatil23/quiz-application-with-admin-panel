@@ -1,0 +1,7 @@
+# Auto-normalize line endings for this database repo
+* text=auto
+
+# Keep SQL files normalized to LF in the repository/worktree
+*.sql text eol=lf
+
+# You can remove or change the `eol` rule above if you prefer CRLF in the working tree
